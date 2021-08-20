@@ -9,6 +9,5 @@ namespace Business.Abstract
     {
         List<T> GetAll();
 
-
     }
 }
